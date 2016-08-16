@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-Welcome to the afternoon session of GitHub for Developers. 
+Welcome to GitHub for Developers. 
 
 ### Facilitators
 
