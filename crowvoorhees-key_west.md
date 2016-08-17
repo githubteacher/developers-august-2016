@@ -1,1 +1,3 @@
-## new file
+## Things to do
+- snorkeling
+- fishing
