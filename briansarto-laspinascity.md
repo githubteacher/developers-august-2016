@@ -5,3 +5,9 @@ Places to go:
  -Basketball courts around the village
  -Bike around
  -Tour Bamboo Organ Church
+
+
+Activities to do:
+- BAsketball
+- Badminton
+- Bike
