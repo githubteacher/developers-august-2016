@@ -8,3 +8,8 @@
 - Wander on Mississippi or Alberta or Hawthorne or go to Pioneer Courthouse
 	Square and enjoy Portland in all its weirdness.
 - Take a picture of your feet on the PDX carpet.
+
+### Restaurants
+- A
+- B
+- C
