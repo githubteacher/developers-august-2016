@@ -1,6 +1,9 @@
 # Logan Utah
 
 ### Things to do
--Hike
--Ski
--Swim
+- Hike
+- Ski
+- Swim
+
+### Restaurants
+- Bluebird Restaurant
