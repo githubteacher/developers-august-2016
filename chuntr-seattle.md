@@ -19,3 +19,6 @@
 
 # west seattle
 - [] alki beach
+
+# restaurants
+- pretty much everything is good
