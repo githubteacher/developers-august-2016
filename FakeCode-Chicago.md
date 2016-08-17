@@ -1,5 +1,6 @@
 # Chicago
 
 ### Things to do
--- still am thinking
+-- It was fixed! yupee
 -- any idea! :eyes
+-- Root Analysis
