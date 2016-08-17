@@ -17,7 +17,7 @@ Your trainers for today will be:
 - Sign up for or sign in to an account on GitHub.com
 - Double check you have installed [Git](https://git-scm.com/)
 
-### Talk to Us! :comment:
+### Talk to Us!
 
 [![Gitter](https://badges.gitter.im/githubteacher/developers-august-2016.svg)](https://gitter.im/githubteacher/developers-august-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
